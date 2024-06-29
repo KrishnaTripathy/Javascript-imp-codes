@@ -1,0 +1,2 @@
+// Polyfill for bind method
+
